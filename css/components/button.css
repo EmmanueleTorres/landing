@@ -1,0 +1,15 @@
+/* Your button CSS file */
+.btn-treehouse {
+  display: inline-block;
+  color: white;
+  background-color: #1EDD88;
+  padding: 16px 36px;
+  border-radius: 50px;
+  transition: background 0.3s ease;
+}
+  
+.btn-treehouse:hover {
+  opacity: 1;
+  background-color: hsl(153, 74%, 42%);
+}
+
